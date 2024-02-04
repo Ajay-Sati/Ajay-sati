@@ -1,8 +1,11 @@
+![logo](https://github.com/Ajay-Sati/Ajay-sati/blob/main/GIT.jpg)
 <h1 align="center">Hi 👋, I'm Ajay Sati</h1>
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-sati&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-sati" /> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
+<img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPphwXd79le9IuiyW9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANUdWJGZVp0aVJqS3JCMHFnVTlsMnZBBG5fcnNsdAMwBG5fc3VnZwMxBG9yaWdpbgNpbi5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMTgEcXVlcnkDZGF0YSUyMHNjaWVuY2UlMjBnaWZzJTVDBHRfc3RtcAMxNzA3MDQ2ODAz?p=data+science+gifs%5C&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211IN1590G0#id=9&iurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffc%2F71%2F63%2Ffc71635c7f1b09ed30413f59bb749582.gif&action=click">
+
+
 
 
 - 🔭 I’m currently working on **Customer Segmentation**
